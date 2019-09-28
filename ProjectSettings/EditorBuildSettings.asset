@@ -8,12 +8,39 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: e8bdbf77f14c5a5409a27a60b48d6c1c
-  - enabled: 0
-    path: Assets/Main Level.unity
-    guid: 19320be0f1cc3c941bc2714decb3a5d3
   - enabled: 1
     path: Assets/Scenes/Zombie Waves.unity
     guid: c2955f479b5b50d4da25f0e8d0081f64
   - enabled: 1
-    path: Assets/Scenes/Options.unity
-    guid: 9c063964170f33f449b8a9683cd32506
+    path: Assets/Scenes/Day2.unity
+    guid: 51a251251baf38449bc4c66d5154fbd4
+  - enabled: 1
+    path: Assets/Scenes/Day3.unity
+    guid: cced66b8aadd86140b8cd9a6e57a9864
+  - enabled: 1
+    path: Assets/Scenes/Day4.unity
+    guid: c9e604c6f4b18bd49a59ce01d1b51053
+  - enabled: 1
+    path: Assets/Scenes/Day5.unity
+    guid: 21e7dd274916c2947ae9e330627f0038
+  - enabled: 1
+    path: Assets/Scenes/Day6.unity
+    guid: 1d0ff746e7e360444ad98844506c7c91
+  - enabled: 1
+    path: Assets/Scenes/Day7.unity
+    guid: 2b536fac5951f7f4ea6f4b14970dc546
+  - enabled: 1
+    path: Assets/Scenes/Day8.unity
+    guid: 1fbdb446b18fbd84099ee1b8e8b3a6cc
+  - enabled: 1
+    path: Assets/Scenes/Day9.unity
+    guid: 5ad16854059fd01409699154d1cf6100
+  - enabled: 1
+    path: Assets/Scenes/FinalDay.unity
+    guid: a45eb854c2d82ea44a39fc690fc6c346
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b7816f29d67cfac41bc2b68a97798874
+  - enabled: 1
+    path: Assets/Scenes/WinScrene.unity
+    guid: 9d750025d847c71418f10c7f813705a2
